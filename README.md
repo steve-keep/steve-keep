@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I have worked in Tech for over two decades, mostly as a Software Engineer. I'm a web enthusiast who finds time to create sites using the latest technology. I have been lucky enough to have worked with it all — from IoT, mobile and AI. I'm currently working on [Graphweaver](https://github.com/exogee-technology/graphweaver), which turns multiple data sources into an automatic GraphQL API.
+I have worked in Tech for over two decades as a Software Engineer. I'm a web enthusiast who finds time to create sites using the latest technology. I have been lucky enough to have worked with it all — from IoT, mobile and AI. I'm currently working on [Graphweaver](https://github.com/exogee-technology/graphweaver), which turns multiple data sources into an automatic GraphQL API.
 
 In my Github profile I keep a complete list of all the articles I have written. So please have a look :smile:
 
